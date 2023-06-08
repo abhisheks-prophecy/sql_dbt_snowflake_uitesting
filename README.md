@@ -1,0 +1,2 @@
+# sql_dbt_snowflake_uitesting
+sql_dbt_snowflake_uitesting
